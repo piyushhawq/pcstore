@@ -1,5 +1,9 @@
 # TeeRex Store
 
+hosted Link:- https://piyushhawq.github.io/pcstore/
+
+Preview of TeeRex Store
+![Preview  of TeeRex Store](https://raw.githubusercontent.com/piyushhawq/Images/main/TeeRex%20Store%20.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
