@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pcstore/static/css/main.ec3d74a6.css",
+    "main.js": "/pcstore/static/js/main.3b85b99f.js",
+    "index.html": "/pcstore/index.html",
+    "main.ec3d74a6.css.map": "/pcstore/static/css/main.ec3d74a6.css.map",
+    "main.3b85b99f.js.map": "/pcstore/static/js/main.3b85b99f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3d74a6.css",
+    "static/js/main.3b85b99f.js"
+  ]
+}
