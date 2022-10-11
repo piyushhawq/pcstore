@@ -1,7 +1,7 @@
 # TeeRex Store
 
 
-Hosted Link:- https://piyushhawq.github.io/pcstore/
+Hosted Link:- https://piyushhawq.github.io/Timeline_react/
 
 Preview of TeeRex Store
 
